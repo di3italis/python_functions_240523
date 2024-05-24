@@ -4,9 +4,9 @@
 # arguments' declaration and see what happens!
 
 # Write your code here.
-
+def sample_function(a, b, input=''):
+  pass
 
 sample_function(input = "asdf", "a", "b")      # ERROR
 sample_function("asdf", input = "a", "b")      # ERROR
 sample_function("asdf", "a", input = "b")      # VALID
-
