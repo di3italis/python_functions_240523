@@ -15,6 +15,8 @@
 
 # Write your function here.
 # There are hints after the print statements
+def seq_of_numbers(string):
+
 
 
 print(seq_of_numbers("1211"))
